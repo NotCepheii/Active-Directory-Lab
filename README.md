@@ -10,6 +10,14 @@ Also for spec wise it depends on your system. I run like Processor	Intel(R) Core
 
 Now you set up your virtual machine... now let us have fun!
 
+This diagram pretty much explains what I am doing.
+
 ![image](https://github.com/NotCepheii/Active-Directory-Lab/assets/157918384/0c2c2b41-2c0f-49ba-9b10-00ca142da765)
+
+Reference: https://www.youtube.com/watch?v=MHsI8hJmggI&t=334s (Josh Makador explains on how to the lab!)
+
+With his explanation; pretty much I followed his video step by step. There is a few discrepancies that he made which later on he explained. He explained on the diagram on what he is doing too as this was my reference.
+
+It was a lengthy process! IT TOOK me an ENTIRE 5 hours! However, the experience was worth it now I have a AD Lab which is essential for system administrator roles. I think that is all for now guys! It is short since I want to share my personal journey, but you will make sure you got to pay attention to detail or else things will not run smoothly. 
 
 
