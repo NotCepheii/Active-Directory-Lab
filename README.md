@@ -1,5 +1,7 @@
 # Active-Directory-Lab
 
+(REVISING ATM)
+
 Good morning all,
 
 I am Leo Roel Manalansan, I am new to IT/Cyber realm. I am here to explain how Active Directory works and how to set up a lab. This is for my own learning purposes to enable to maintain this information and use this as reference. This is going to be a short explanation for my end.
